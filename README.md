@@ -7,3 +7,8 @@ Ben İlknur.
 📚 Sürekli kendimi geliştirmeye ve yeni teknolojiler öğrenmeye odaklanıyorum.
 
 🚀 GitHub'da öğrendiklerimi ve projelerimi paylaşacağım.
+
+
+## 📄 CV
+
+👉 [CV'mi Görüntüle](https://github.com/ilknurdev/cv/blob/main/cv.jpeg)
